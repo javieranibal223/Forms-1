@@ -1,0 +1,17 @@
+C:\Users\User\Downloads\Windows Forms\GestorProductos\bin\Debug\net8.0-windows\GestorProductos.exe
+C:\Users\User\Downloads\Windows Forms\GestorProductos\bin\Debug\net8.0-windows\GestorProductos.deps.json
+C:\Users\User\Downloads\Windows Forms\GestorProductos\bin\Debug\net8.0-windows\GestorProductos.runtimeconfig.json
+C:\Users\User\Downloads\Windows Forms\GestorProductos\bin\Debug\net8.0-windows\GestorProductos.dll
+C:\Users\User\Downloads\Windows Forms\GestorProductos\bin\Debug\net8.0-windows\GestorProductos.pdb
+C:\Users\User\Downloads\Windows Forms\GestorProductos\obj\Debug\net8.0-windows\GestorProductos.Form1.resources
+C:\Users\User\Downloads\Windows Forms\GestorProductos\obj\Debug\net8.0-windows\GestorProductos.csproj.GenerateResource.cache
+C:\Users\User\Downloads\Windows Forms\GestorProductos\obj\Debug\net8.0-windows\GestorProductos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\Windows Forms\GestorProductos\obj\Debug\net8.0-windows\GestorProductos.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\Windows Forms\GestorProductos\obj\Debug\net8.0-windows\GestorProductos.AssemblyInfo.cs
+C:\Users\User\Downloads\Windows Forms\GestorProductos\obj\Debug\net8.0-windows\GestorProductos.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Windows Forms\GestorProductos\obj\Debug\net8.0-windows\GestorProductos.dll
+C:\Users\User\Downloads\Windows Forms\GestorProductos\obj\Debug\net8.0-windows\refint\GestorProductos.dll
+C:\Users\User\Downloads\Windows Forms\GestorProductos\obj\Debug\net8.0-windows\GestorProductos.pdb
+C:\Users\User\Downloads\Windows Forms\GestorProductos\obj\Debug\net8.0-windows\GestorProductos.genruntimeconfig.cache
+C:\Users\User\Downloads\Windows Forms\GestorProductos\obj\Debug\net8.0-windows\ref\GestorProductos.dll
+C:\Users\User\Downloads\Windows Forms\GestorProductos\obj\Debug\net8.0-windows\GestorProductos.Properties.Resources.resources
