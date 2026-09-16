@@ -1,0 +1,70 @@
+C:\Users\User\Downloads\Windows Forms\GestorProductos\bin\Debug\net8.0-windows\GestorProductos.exe
+C:\Users\User\Downloads\Windows Forms\GestorProductos\bin\Debug\net8.0-windows\GestorProductos.deps.json
+C:\Users\User\Downloads\Windows Forms\GestorProductos\bin\Debug\net8.0-windows\GestorProductos.runtimeconfig.json
+C:\Users\User\Downloads\Windows Forms\GestorProductos\bin\Debug\net8.0-windows\GestorProductos.dll
+C:\Users\User\Downloads\Windows Forms\GestorProductos\bin\Debug\net8.0-windows\GestorProductos.pdb
+C:\Users\User\Downloads\Windows Forms\GestorProductos\obj\Debug\net8.0-windows\GestorProductos.Form1.resources
+C:\Users\User\Downloads\Windows Forms\GestorProductos\obj\Debug\net8.0-windows\GestorProductos.csproj.GenerateResource.cache
+C:\Users\User\Downloads\Windows Forms\GestorProductos\obj\Debug\net8.0-windows\GestorProductos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\Windows Forms\GestorProductos\obj\Debug\net8.0-windows\GestorProductos.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\Windows Forms\GestorProductos\obj\Debug\net8.0-windows\GestorProductos.AssemblyInfo.cs
+C:\Users\User\Downloads\Windows Forms\GestorProductos\obj\Debug\net8.0-windows\GestorProductos.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Windows Forms\GestorProductos\obj\Debug\net8.0-windows\GestorProductos.dll
+C:\Users\User\Downloads\Windows Forms\GestorProductos\obj\Debug\net8.0-windows\refint\GestorProductos.dll
+C:\Users\User\Downloads\Windows Forms\GestorProductos\obj\Debug\net8.0-windows\GestorProductos.pdb
+C:\Users\User\Downloads\Windows Forms\GestorProductos\obj\Debug\net8.0-windows\GestorProductos.genruntimeconfig.cache
+C:\Users\User\Downloads\Windows Forms\GestorProductos\obj\Debug\net8.0-windows\ref\GestorProductos.dll
+C:\Users\User\Downloads\Windows Forms\GestorProductos\obj\Debug\net8.0-windows\GestorProductos.Properties.Resources.resources
+C:\Users\User\Downloads\Windows Forms\GestorProductos\obj\Debug\net8.0-windows\GestorProductos.sourcelink.json
+C:\Users\User\Downloads\Forms-1-master\Forms-1-master\GestorProductos\bin\Debug\net8.0-windows\GestorProductos.exe
+C:\Users\User\Downloads\Forms-1-master\Forms-1-master\GestorProductos\bin\Debug\net8.0-windows\GestorProductos.deps.json
+C:\Users\User\Downloads\Forms-1-master\Forms-1-master\GestorProductos\bin\Debug\net8.0-windows\GestorProductos.runtimeconfig.json
+C:\Users\User\Downloads\Forms-1-master\Forms-1-master\GestorProductos\bin\Debug\net8.0-windows\GestorProductos.dll
+C:\Users\User\Downloads\Forms-1-master\Forms-1-master\GestorProductos\bin\Debug\net8.0-windows\GestorProductos.pdb
+C:\Users\User\Downloads\Forms-1-master\Forms-1-master\GestorProductos\obj\Debug\net8.0-windows\GestorProductos.Form1.resources
+C:\Users\User\Downloads\Forms-1-master\Forms-1-master\GestorProductos\obj\Debug\net8.0-windows\GestorProductos.Properties.Resources.resources
+C:\Users\User\Downloads\Forms-1-master\Forms-1-master\GestorProductos\obj\Debug\net8.0-windows\GestorProductos.csproj.GenerateResource.cache
+C:\Users\User\Downloads\Forms-1-master\Forms-1-master\GestorProductos\obj\Debug\net8.0-windows\GestorProductos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\Forms-1-master\Forms-1-master\GestorProductos\obj\Debug\net8.0-windows\GestorProductos.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\Forms-1-master\Forms-1-master\GestorProductos\obj\Debug\net8.0-windows\GestorProductos.AssemblyInfo.cs
+C:\Users\User\Downloads\Forms-1-master\Forms-1-master\GestorProductos\obj\Debug\net8.0-windows\GestorProductos.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Forms-1-master\Forms-1-master\GestorProductos\obj\Debug\net8.0-windows\GestorProductos.dll
+C:\Users\User\Downloads\Forms-1-master\Forms-1-master\GestorProductos\obj\Debug\net8.0-windows\refint\GestorProductos.dll
+C:\Users\User\Downloads\Forms-1-master\Forms-1-master\GestorProductos\obj\Debug\net8.0-windows\GestorProductos.pdb
+C:\Users\User\Downloads\Forms-1-master\Forms-1-master\GestorProductos\obj\Debug\net8.0-windows\GestorProductos.genruntimeconfig.cache
+C:\Users\User\Downloads\Forms-1-master\Forms-1-master\GestorProductos\obj\Debug\net8.0-windows\ref\GestorProductos.dll
+C:\Users\ALUMNO29\Desktop\GestorProductos\bin\Debug\net8.0-windows\GestorProductos.exe
+C:\Users\ALUMNO29\Desktop\GestorProductos\bin\Debug\net8.0-windows\GestorProductos.deps.json
+C:\Users\ALUMNO29\Desktop\GestorProductos\bin\Debug\net8.0-windows\GestorProductos.runtimeconfig.json
+C:\Users\ALUMNO29\Desktop\GestorProductos\bin\Debug\net8.0-windows\GestorProductos.dll
+C:\Users\ALUMNO29\Desktop\GestorProductos\bin\Debug\net8.0-windows\GestorProductos.pdb
+C:\Users\ALUMNO29\Desktop\GestorProductos\obj\Debug\net8.0-windows\GestorProductos.Form1.resources
+C:\Users\ALUMNO29\Desktop\GestorProductos\obj\Debug\net8.0-windows\GestorProductos.Properties.Resources.resources
+C:\Users\ALUMNO29\Desktop\GestorProductos\obj\Debug\net8.0-windows\GestorProductos.csproj.GenerateResource.cache
+C:\Users\ALUMNO29\Desktop\GestorProductos\obj\Debug\net8.0-windows\GestorProductos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUMNO29\Desktop\GestorProductos\obj\Debug\net8.0-windows\GestorProductos.AssemblyInfoInputs.cache
+C:\Users\ALUMNO29\Desktop\GestorProductos\obj\Debug\net8.0-windows\GestorProductos.AssemblyInfo.cs
+C:\Users\ALUMNO29\Desktop\GestorProductos\obj\Debug\net8.0-windows\GestorProductos.csproj.CoreCompileInputs.cache
+C:\Users\ALUMNO29\Desktop\GestorProductos\obj\Debug\net8.0-windows\GestorProductos.dll
+C:\Users\ALUMNO29\Desktop\GestorProductos\obj\Debug\net8.0-windows\refint\GestorProductos.dll
+C:\Users\ALUMNO29\Desktop\GestorProductos\obj\Debug\net8.0-windows\GestorProductos.pdb
+C:\Users\ALUMNO29\Desktop\GestorProductos\obj\Debug\net8.0-windows\GestorProductos.genruntimeconfig.cache
+C:\Users\ALUMNO29\Desktop\GestorProductos\obj\Debug\net8.0-windows\ref\GestorProductos.dll
+C:\Users\ALUMNO29\Desktop\GestorProductos\obj\Debug\net8.0-windows\GestorPr.6B9AF5B3.Up2Date
+C:\Users\User\Documents\GestorProductos_Javier_Anibal\GestorProductos\obj\Debug\net8.0-windows\GestorProductos.dll
+C:\Users\User\Documents\GestorProductos_Javier_Anibal\GestorProductos\obj\Debug\net8.0-windows\refint\GestorProductos.dll
+C:\Users\User\Documents\GestorProductos_Javier_Anibal\GestorProductos\obj\Debug\net8.0-windows\GestorProductos.pdb
+C:\Users\User\Documents\GestorProductos_Javier_Anibal\GestorProductos\bin\Debug\net8.0-windows\GestorProductos.exe
+C:\Users\User\Documents\GestorProductos_Javier_Anibal\GestorProductos\bin\Debug\net8.0-windows\GestorProductos.deps.json
+C:\Users\User\Documents\GestorProductos_Javier_Anibal\GestorProductos\bin\Debug\net8.0-windows\GestorProductos.runtimeconfig.json
+C:\Users\User\Documents\GestorProductos_Javier_Anibal\GestorProductos\bin\Debug\net8.0-windows\GestorProductos.dll
+C:\Users\User\Documents\GestorProductos_Javier_Anibal\GestorProductos\bin\Debug\net8.0-windows\GestorProductos.pdb
+C:\Users\User\Documents\GestorProductos_Javier_Anibal\GestorProductos\obj\Debug\net8.0-windows\GestorProductos.Form1.resources
+C:\Users\User\Documents\GestorProductos_Javier_Anibal\GestorProductos\obj\Debug\net8.0-windows\GestorProductos.Properties.Resources.resources
+C:\Users\User\Documents\GestorProductos_Javier_Anibal\GestorProductos\obj\Debug\net8.0-windows\GestorProductos.csproj.GenerateResource.cache
+C:\Users\User\Documents\GestorProductos_Javier_Anibal\GestorProductos\obj\Debug\net8.0-windows\GestorProductos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GestorProductos_Javier_Anibal\GestorProductos\obj\Debug\net8.0-windows\GestorProductos.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GestorProductos_Javier_Anibal\GestorProductos\obj\Debug\net8.0-windows\GestorProductos.AssemblyInfo.cs
+C:\Users\User\Documents\GestorProductos_Javier_Anibal\GestorProductos\obj\Debug\net8.0-windows\GestorProductos.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GestorProductos_Javier_Anibal\GestorProductos\obj\Debug\net8.0-windows\GestorProductos.genruntimeconfig.cache
+C:\Users\User\Documents\GestorProductos_Javier_Anibal\GestorProductos\obj\Debug\net8.0-windows\ref\GestorProductos.dll
